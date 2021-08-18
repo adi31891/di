@@ -1,0 +1,12 @@
+Algoritma  Cara Nyalakan Motor
+1.Ambil kunci motor
+2.Taro kunci motor pada stop kontak
+3.Nyalakan motor dengan starter
+4.	Jika nyala maka motor bisa digunakan (N)
+5.Jika motor tidak bisa dinyalakan dengan starter
+6.	Injak kick starter lalu coba nyalakan kembali (N/2)
+7.	Jika bisa kembali ke no.4
+8.Jika motor tetap tidak bisa menyala
+9.	Bongkar motor,ambil akinyan dan chas aki tersebut(LOG2(N))
+10.	pasang akinya kembali jika bisa kembali ke no 4
+11. Motor bisa digunakan.
